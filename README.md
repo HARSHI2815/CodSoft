@@ -80,16 +80,16 @@ A little app to store contact information:
 1. Clone this repo:
 
    ```bash
-   git clone https://github.com/your-username/CODSOFTJUNE.git
-   cd CODSOFTJUNE
+   git clone https://github.com/HARSHI2815/CodSoft.git
+   cd CodSoft
    ```
 
 2. Run any of the project files with Python:
 
    ```bash
-   python todo_list.py
-   python calculator.py
-   python password_generator.py
+   python Todolist.py
+   python ContactBook.py
+   python Password.py
    ```
 
 And so on for the other projects.
@@ -111,5 +111,3 @@ Huge thanks to **CodSoft** for this opportunity. These tasks might look simple, 
 If you have suggestions, feedback, or just want to chat about code — feel free to reach out!
 
 ---
-
-Want me to convert this into a proper `README.md` file ready to upload? Just say the word. 😊

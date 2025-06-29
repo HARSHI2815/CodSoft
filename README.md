@@ -98,7 +98,7 @@ And so on for the other projects.
 
 ## Connect With Me
 
-I’ve shared my project videos on LinkedIn too — would love to connect and get feedback!
+I’ve shared these projects on LinkedIn too — would love to connect and get feedback !
 
 🔗 **\[www.linkedin.com/in/harshita-bherwani-45b391348]**
 

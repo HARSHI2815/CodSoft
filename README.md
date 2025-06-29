@@ -2,7 +2,7 @@ Got it! Here's a more **natural, human-written** version of your README. It stil
 
 ---
 
-# CodSoft Python Internship - June 2024
+# CodSoft Python Internship - June 2025
 
 Hi there! 👋
 This repository contains the Python mini-projects I worked on as part of my **Python Programming Internship** with [CodSoft](https://www.codsoft.in).
